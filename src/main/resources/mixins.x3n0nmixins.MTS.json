@@ -1,0 +1,10 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "x3n0nmixins.mixin.MTS",
+    "refmap": "refmap.x3n0nmixins.json",
+    "mixins": [
+      "IVThrust_Fix"
+    ],
+    "client": [],
+    "server": []
+}
