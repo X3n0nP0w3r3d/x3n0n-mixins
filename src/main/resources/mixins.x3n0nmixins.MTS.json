@@ -3,7 +3,8 @@
     "package": "x3n0nmixins.mixin.MTS",
     "refmap": "refmap.x3n0nmixins.json",
     "mixins": [
-      "IVThrust_Fix"
+      "IVThrust_FixEngine",
+      "IVThrust_FixPropeller"
     ],
     "client": [],
     "server": []
